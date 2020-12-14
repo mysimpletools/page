@@ -1,0 +1,8 @@
+User-agent: Browsershots
+Disallow:
+
+User-agent: *
+Disallow: /404.html
+Disallow: /editor.html
+
+Sitemap: https://www.code-free.cf/sitemap.xml
